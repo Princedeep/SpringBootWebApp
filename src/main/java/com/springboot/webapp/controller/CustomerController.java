@@ -54,6 +54,7 @@ public class CustomerController {
 		
 		//get customer from service
 		Customers customer=service.getCustomerByID(cid);
+		service.deleteCustomerByID(cid);
 		model.addAttribute("customers", customer);
 		
 		
