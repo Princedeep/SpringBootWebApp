@@ -22,7 +22,7 @@ public class CustomerController {
 	@Autowired
 	CustomerService service;
 	
-	@RequestMapping("/")
+	@GetMapping("/")
 	public String getCustomers(Model model) {
 		model.addAttribute("listCustomers",  service.getAllCustomers());
 		
