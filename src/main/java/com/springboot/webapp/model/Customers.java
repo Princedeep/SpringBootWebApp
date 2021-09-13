@@ -25,7 +25,7 @@ public class Customers {
 	public long getCid() {
 		return cid;
 	}
-	public void setCid(int cid) {
+	public void setCid(long cid) {
 		this.cid = cid;
 	}
 	public String getCname() {
