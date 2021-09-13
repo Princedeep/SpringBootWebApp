@@ -56,7 +56,7 @@ public class CustomerController {
 		Customers customer=service.getCustomerByID(cid);
 		service.deleteCustomerByID(cid);
 		model.addAttribute("customers", customer);
-		
+
 		
 		return "updatedCustomer";
 		
