@@ -34,12 +34,12 @@ Repository:
 
 1. Save Customer Page
 
-![alt text](https://github.com/Princedeep/Kiosk/blob/master/Project_Images/login.JPG)
+![alt text](https://github.com/Princedeep/SpringBootWebApp/blob/master/new_customer.JPG)
 
 
 2. View/Update/Delete Customer Page
 
-![alt text](https://github.com/Princedeep/Kiosk/blob/master/Project_Images/admin.JPG)
+![alt text](https://github.com/Princedeep/SpringBootWebApp/blob/master/view_update.JPG)
 
 
 
