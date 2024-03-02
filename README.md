@@ -1,7 +1,7 @@
 # Customer Portal
 
 Customer Portal is a web application built to maintain records of different customers in Database. The application is divided into different layers to handle different tasks and to maintain code modularity.
-This application is developed using Spring boot framework in Java. The webpages are created using HTML and CSS. Here are different layes of project:
+This application is developed using Spring boot framework in Java. Here are different layes of project:
 
 Controller:
 ---------------
